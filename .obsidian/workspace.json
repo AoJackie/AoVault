@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "5751fc091041d4be",
+    "type": "split",
+    "children": [
+      {
+        "id": "53e0ec75acf2c436",
+        "type": "tabs",
+        "dimension": 66.56891495601172,
+        "children": [
+          {
+            "id": "74211552cc5e534a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电机控制/FOC无感控制算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FOC无感控制算法"
+            }
+          },
+          {
+            "id": "968365d7a5aaae84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电机控制/永磁同步电机dq电压方程中的耦合项符号问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "永磁同步电机dq电压方程中的耦合项符号问题"
+            }
+          },
+          {
+            "id": "d1ccd2541f70e307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电机控制/PWM调制.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PWM调制"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "113cc5755f53f748",
+        "type": "tabs",
+        "dimension": 33.43108504398827,
+        "children": [
+          {
+            "id": "5a5685ecfff8a811",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a22c3f5b43d36df",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ed0dd96f34c4075",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51da3dd344b7a263",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6e8ce78967f5b3ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Ⅰ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f107268e3763e32d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad12b6c706773174",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed49336d3eae5eac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d0632b8412b3199",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "电机控制/PWM调制.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PWM调制"
+            }
+          },
+          {
+            "id": "f13689e93ac76f84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "电机控制/PWM调制.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PWM调制"
+            }
+          },
+          {
+            "id": "339ba3dad852951c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "79c309b1a6491c50",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ee26da70531a025c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "电机控制/PWM调制.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PWM调制"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d1ccd2541f70e307",
+  "lastOpenFiles": [
+    "电机控制/永磁同步电机dq电压方程中的耦合项符号问题.md",
+    "电机控制/PWM调制.md",
+    "电机控制/FOC无感控制算法.md",
+    "Untitled.canvas",
+    "电机控制/Untitled.base",
+    "Untitled/2026-07-08.md",
+    "电机控制",
+    "Untitled/知识库.md",
+    "Untitled/Untitled.canvas",
+    "Untitled/Untitled.base",
+    "工作日志.md",
+    "Untitled 1.canvas",
+    "Welcome.md",
+    "OneNote",
+    "Untitled/desktop.ini",
+    "desktop.ini"
+  ]
+}
